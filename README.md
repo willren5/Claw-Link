@@ -1,6 +1,6 @@
-# Claw Console
+# Claw Link
 
-Claw Console 是一个 **OpenClaw Gateway 的移动遥控器**（iOS/Expo），不是本地模型运行端。
+Claw Link 是一个 **OpenClaw Gateway 的移动遥控器**（iOS/Expo），不是本地模型运行端。
 
 它面向自托管用户，支持在局域网、VPS、Tailscale/WireGuard 环境下远程管理网关，覆盖：
 
